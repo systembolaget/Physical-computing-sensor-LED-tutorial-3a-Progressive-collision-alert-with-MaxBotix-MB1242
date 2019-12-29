@@ -33,7 +33,7 @@ Collision, proximity or parking alert. How to read a sensor and provide audible/
 μc https://www.adafruit.com/product/2590  
 Sensor https://www.maxbotix.com/Ultrasonic_Sensors/MB1242.htm  
 Running median library https://github.com/RobTillaart/Arduino/tree/master/libraries/RunningMedian  
-LED ring https://learn.adafruit.com/adafruit-neopixel-uberguide/downloads  
-LED library https://github.com/FastLED/FastLED (see also Wiki pages)  
+LED ring https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels  
+LED library https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-use#  
 Transistor https://www.onsemi.com/pub/Collateral/TIP120-D.PDF
  

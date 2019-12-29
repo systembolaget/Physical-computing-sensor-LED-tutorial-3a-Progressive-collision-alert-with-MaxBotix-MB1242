@@ -1,4 +1,4 @@
-# Physical-computing-sensor-tutorial-3a-Progressive-collision-alert-with-MaxBotix-MB1242
+# Physical computing sensor tutorial - Progressive collision alert with MaxBotix MB1242
 
 Collision, proximity or parking alert. How to read a sensor and provide audible/visual feedback with Arduino using millis(). Say goodbye to blocking delay()
 

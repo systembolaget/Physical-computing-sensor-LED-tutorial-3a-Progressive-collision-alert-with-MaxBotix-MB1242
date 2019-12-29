@@ -16,7 +16,7 @@ Collision, proximity or parking alert. How to read a sensor and provide audible/
 €  14,00 Adafruit Metro Mini 328 5V 16MHz microcontroller
 €  45,00 MaxBotix MB1242 I2CXL-MaxSonar-EZ4
 €  25,00 Adafruit NeoPixel Ring 24 x 5050 RGB LED
-€   2,00 Adafruit PCB Mount Mini Speaker 8 Ohm 0.2W
+€   2,00 Generic 8 Ohm 0,2W loudspeaker
 €   1,00 ON Semiconductor TIP120 NPN Darlington-transistor
 €   4,00 Half-size transparent breadboard
 €   2,00 Breadboard mini modular black

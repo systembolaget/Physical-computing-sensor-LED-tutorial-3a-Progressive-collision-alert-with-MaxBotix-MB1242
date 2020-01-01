@@ -10,6 +10,8 @@
 #include "RunningMedian.h"
 #include <Adafruit_NeoPixel.h>
 
+// MaxBotix MB1242 connected to pins A4 (data) and A5 (clock)
+
 // Variables that remain constant
 const byte pinData = 4; // Digital output pin to LED ring
 const byte numLeds = 24; // Number of LEDs
@@ -29,7 +31,7 @@ const byte sensorReadInterval = 100; // Time to pass until the next sensor readi
 Adafruit_NeoPixel strip(numLeds, pinData, NEO_GRB + NEO_KHZ800);
 // Instances a samples object from the library that holds 7 sensor
 // readings, refreshed at each reading cycle (= FIFO order)
-RunningMedian samples = RunningMedian(7);
+RunningMedian samples = RunningMedian(5);
 
 // Variables that can change
 int toneInterval = 0; // Time to pass until the next tone

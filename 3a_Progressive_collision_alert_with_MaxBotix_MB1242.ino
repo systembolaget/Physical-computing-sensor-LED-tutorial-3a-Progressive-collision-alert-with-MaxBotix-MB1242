@@ -29,7 +29,7 @@ const byte sensorReadInterval = 100; // Time to pass until the next sensor readi
 // LEDs in the ring, the digital output pin the LED ring is wired
 // to and the type of programmable RGB LED used
 Adafruit_NeoPixel strip(numLeds, pinData, NEO_GRB + NEO_KHZ800);
-// Instances a samples object from the library that holds 7 sensor
+// Instances a samples object from the library that holds 5 sensor
 // readings, refreshed at each reading cycle (= FIFO order)
 RunningMedian samples = RunningMedian(5);
 

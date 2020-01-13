@@ -22,8 +22,8 @@ Collision, proximity or parking alert. How to read a sensor and provide audible/
 €   2,00 Breadboard mini modular black
 €   1,00 Jumper cables
 €   1,00 2,1mm DC barrel-jack
-€   1,00 100 µF 10V el. cap, 47Ω and 470Ω resistors
-€   1,00 2 1kΩ resistors
+€   1,00 100 µF 10V el. cap, 470Ω resistor
+€   1,00 3 1kΩ resistors
 €  10,00 MEANWELL GS12E05-P1I
 € 107,00
 </pre>  

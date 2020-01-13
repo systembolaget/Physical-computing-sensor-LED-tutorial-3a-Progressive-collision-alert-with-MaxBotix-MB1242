@@ -24,7 +24,7 @@ Collision or parking alert. How to read a sensor and give audible/visual feedbac
 €   1,00 2,1mm DC barrel-jack
 €   1,00 100 µF 10V el. cap, 470Ω resistor
 €   1,00 3 1kΩ resistors
-€  10,00 MEANWELL GS12E05-P1I
+€  10,00 MEANWELL GS12E05-P1I PSU
 € 107,00
 </pre>  
 

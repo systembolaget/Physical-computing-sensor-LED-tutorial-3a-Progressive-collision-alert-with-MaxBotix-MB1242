@@ -1,6 +1,6 @@
 # Physical computing sensor tutorial - Progressive collision alert with MaxBotix MB1242
 
-Collision or parking alert. How to read a sensor and give audible/visual feedback with Arduino using millis() and FastLED. Say goodbye to blocking delay()
+Collision or parking alert. How to read a sensor and give audible/visual feedback with Arduino using millis() and FastLED - say goodbye to blocking delay()
 
 ### Result
 

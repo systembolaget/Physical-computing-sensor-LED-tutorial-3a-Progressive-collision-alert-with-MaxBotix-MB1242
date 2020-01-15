@@ -19,12 +19,12 @@ const int colourMin = 0; // Minimum single value HSV colour (red)
 const int colourMax = 32767; // Maximum single value HSV colour (cyan)
 const byte speakerPin = 8; // Digital output pin to loudspeaker
 const int toneFrequency = 880; // Note A5 in Hz
-const byte toneDuration = 50; // Tone duration in milliseconds
-const int toneIntervalMin = 75; // Minimum time to pass until the next tone
+const byte toneDuration = 25; // Tone duration in milliseconds
+const int toneIntervalMin = 50; // Minimum time to pass until the next tone
 const int toneIntervalMax = 750; // Maximum time to pass until the next tone
 const int distanceMin = 20; // Minimum sensing distance in cm, as per MaxBotix
 const int distanceMax = 200; // Maximum sensing distance in cm, up to 765 cm possible
-const byte sensorReadInterval = 100; // Time to pass until the next sensor reading
+const byte sensorReadInterval = 50; // Time to pass until the next sensor reading
 // Instances a Strip object from the library with the number of
 // LEDs in the ring, the digital output pin the LED ring is wired
 // to and the type of programmable RGB LED used

@@ -2,9 +2,11 @@
 
 Collision or parking alert. How to read a sensor and give audible/visual feedback with Arduino using millis() and FastLED - say goodbye to blocking delay()
 
-### Result
+### Setup
 
-![](Assets/3a%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/3a%20result.jpg)](https://www.youtube.com/watch?v=nyU47mw_El4)
 
 ### Schematic
 
